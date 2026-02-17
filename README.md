@@ -13,10 +13,10 @@
   <a href="https://www.linkedin.com/in/dogankuru/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" alt="LinkedIn">
   </a>
-  <a href="mailto:seninmailin@gmail.com" target="_blank">
+  <a href="mailto:dogankuru125@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f" alt="Email">
   </a>
-    <a href="https://medium.com/@dogankuru" target="_blank">
+    <a href="https://medium.com/@dogankuru125" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a192f" alt="Medium">
   </a>
 </div>
@@ -46,7 +46,7 @@
         {
           "subject": "Doğan Kuru",
           "role": ["Data Analyst", "AI Automation Engineer"],
-          "base": "Manisa, Turkey",
+          "base": "Mersin, Turkey",
           "current_focus": "IDP, AI Agents & Financial Analytics",
           "interests": [
             "🤖 AI Agents (n8n)",
@@ -135,7 +135,7 @@
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/📧-Email_Me-D14836?style=for-the-badge" alt="Email"><br>
-        <a href="mailto:seninmailin@gmail.com">Send an Email</a>
+        <a href="mailto:dogankuru125@gmail.com">Send an Email</a>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"><br>
@@ -156,7 +156,7 @@
   <img src="https://img.shields.io/github/followers/dogankuru125-cell?label=Followers&style=for-the-badge&color=00C853" alt="Followers">
 <br>
 <p>
-  <strong>© 2026 Muhammet Doğan Kuru</strong><br>
+  <strong>© 2026 Doğan Kuru</strong><br>
   <em>📊 Data Analyst • 🤖 AI Agent Developer • 🗄️ Data Engineer</em><br>
   <em>🌌 Focused on Vibe Coding • 🏗️ Engineering NLP Systems</em>
 </p>
