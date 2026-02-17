@@ -1,34 +1,163 @@
-# 🚀 I build NLP-driven pipelines and intelligent automation systems.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a192f,112240,00f2ff&height=250&section=header&text=Doğan%20Kuru&fontSize=80&fontColor=00f2ff&animation=fadeIn&fontAlignY=40&desc=Architect%20of%20Intelligent%20Automation&descAlignY=65&descSize=25&descColor=a8b2d1" width="100%" alt="Cosmic Header"/>
+</div>
 
-I am a **Big Data Analytics** student at Manisa Celal Bayar University and a **Data Analytics Intern** at Artiwise. I bridge the gap between statistical theory and practical data engineering, building automated solutions to solve complex data problems.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1000&color=00F2FF&center=true&vCenter=true&width=900&height=70&lines=Initializing+Data+Sequence...;>+Subject:+Data+Analyst+%26+AI+Engineer;>+Mission:+Automating+Logic+with+AI+🚀;>+Status:+Online+and+Ready+to+Build." alt="Typing SVG" />
+  </a>
+</div>
 
-### 🛠 Tech Stack & Tools
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/dogankuru/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" alt="LinkedIn">
+  </a>
+  <a href="mailto:seninmailin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f" alt="Email">
+  </a>
+    <a href="https://medium.com/@dogankuru" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a192f" alt="Medium">
+  </a>
+</div>
 
-**Languages & Data Analysis:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<br>
 
-**AI, Automation & Niche:**
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) 
-![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-7B61FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogankuru125-cell&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogankuru125-cell&layout=compact&theme=radical)
+<h2 align="center">🎯 Identity Log: The Data Explorer</h2>
 
----
+<table border="0" width="100%">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://imgs.search.brave.com/fyBwcn2NYSErSq6f-QbcM3LLq3Tbv-9XyPHgt-xmAlE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjR1EyZFhKaWEy/dGpNR3Q0WkdOd1kz/WnllREEwTkdWcU9H/MDNOakZrT0RKc2NY/bDVZVGxvTkNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTGFWcDBBeXFS/NWJHc0M1Q2JtL2dp/cGh5LmdpZg.gif" width="100%" alt="Sci-Fi HUD">
+    </td>
+    <td width="60%" valign="top">
+      <br>
+      <p>I am a passionate <b>Big Data Analytics student</b> at <b>Manisa Celal Bayar University</b> and a Data Analytics Intern at <b>Artiwise</b>, operating at the intersection of Intelligent Document Processing (IDP) and financial data architecture. My goal is to build NLP-driven pipelines and autonomous agents that extract actionable intelligence.</p>
+      <p>
+        I don't just analyze data; I engineer the pipelines and workflows that bring it to life using Vibe Coding methodologies.
+      </p>
 
-### 🔍 Current Focus & "Know-How"
-* **Intelligent Document Processing (IDP):** Engineering AI-powered extraction workflows and NLP pipelines.
-* **Financial Analytics:** Building Python-based indicators for market trend analysis (S&P 500 / Nasdaq).
-* **AI Agents:** Implementing n8n workflows to automate complex data enrichment tasks.
-* **Vibe Coding:** Leveraging AI-assisted tools (Cursor/Gemini) to accelerate development and problem-solving.
+  <div align="left">
+     <pre>
+        {
+          "subject": "Doğan Kuru",
+          "role": ["Data Analyst", "AI Automation Engineer"],
+          "base": "Manisa, Turkey",
+          "current_focus": "IDP, AI Agents & Financial Analytics",
+          "interests": [
+            "🤖 AI Agents (n8n)",
+            "📈 Market Microstructure (S&P 500)",
+            "☁️ Cloud Infrastructure (Azure)"]
+         }
+    </pre>
+    </div>
+    </td>
+  </tr>
+  </table>
 
-### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/dogankuru/](https://www.linkedin.com/in/dogankuru/)) 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-*"Kod yazmaktan çok uygulamak önemli. Zaman kazandıran çözümler üretmeye odaklanıyorum."*
+<h2 align="center">🛠️ Technical Arsenal</h2>
+
+<div align="center">
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <p style="font-size: 14px; font-weight: bold; margin-bottom: 5px; color: #a855f7;">🧠 Data Science & AI</p>
+      <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,matplotlib&theme=dark&perline=6" height="40" alt="Data Science Skills"/>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <p style="font-size: 14px; font-weight: bold; margin-bottom: 5px; color: #00f2ff;">🌐 Web & Automation</p>
+      <img src="https://skillicons.dev/icons?i=flask,js,html,css&theme=dark&perline=7" height="40" alt="Web Dev Skills"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <p style="font-size: 14px; font-weight: bold; margin-bottom: 5px; color: #fcd34d;">🗄️ Databases & Cloud</p>
+      <img src="https://skillicons.dev/icons?i=sql,mysql,postgres,azure&theme=dark&perline=6" height="40" alt="Big Data Skills"/>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <p style="font-size: 14px; font-weight: bold; margin-bottom: 5px; color: #ff6b6b;">⚙️ DevOps & Tools</p>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark&perline=6" height="40" alt="Tools Skills"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<h2 align="center">📡 GitHub Telemetry & Data Streams</h2>
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td>
+        <img src="https://my-github-stats-nine-nu.vercel.app/api?username=dogankuru125-cell&count_private=true&show_icons=true&hide_border=true&bg_color=050505&title_color=00ffea&icon_color=ff0055&text_color=c9d1d9&exclude_repo=my-github-stats&cache_buster=16" height="180" alt="stats graph" />
+      </td>
+      <td>
+        <img src="https://my-github-stats-nine-nu.vercel.app/api/top-langs/?username=dogankuru125-cell&count_private=true&layout=compact&hide_border=true&bg_color=050505&title_color=00ffea&text_color=c9d1d9&langs_count=8&exclude_repo=my-github-stats&cache_buster=16" height="180" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogankuru125-cell&hide_border=true&background=050505&ring=ff0055&fire=00ffea&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffea&sideLabels=00ffea&dates=c9d1d9" width="80%" alt="Streak Stats">
+</div>
+
+<br>
+
+<h2 align="center">📅 Coding Trajectory</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dogankuru125-cell&hide_border=true&area=true&bg_color=050505&color=00ffea&line=ff0055&point=ffffff" width="100%" alt="Activity Graph"/>
+</div>
+
+<br>
+
+## 📫 Let's Connect!
+<div align="center">
+  <p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=26C6DA&center=true&vCenter=true&width=600&lines=Bridging+Data+with+Reality...;Building+automated+architectures...;Let's+turn+your+data+into+action!" alt="Typing SVG" />
+  </p>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📧-Email_Me-D14836?style=for-the-badge" alt="Email"><br>
+        <a href="mailto:seninmailin@gmail.com">Send an Email</a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"><br>
+        <a href="https://www.linkedin.com/in/dogankuru/">Connect on LinkedIn</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f2ff,112240,0a192f&height=150&section=footer&text=See%20You%20in%20the%20Future&fontSize=30&fontColor=00f2ff&animation=twinkling&fontAlignY=70" alt="Footer" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dogankuru125-cell&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/dogankuru125-cell?label=Followers&style=for-the-badge&color=00C853" alt="Followers">
+<br>
+<p>
+  <strong>© 2026 Muhammet Doğan Kuru</strong><br>
+  <em>📊 Data Analyst • 🤖 AI Agent Developer • 🗄️ Data Engineer</em><br>
+  <em>🌌 Focused on Vibe Coding • 🏗️ Engineering NLP Systems</em>
+</p>
+</div>
