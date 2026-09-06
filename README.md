@@ -119,10 +119,11 @@
 <br>
 
 <div align="center">
-  <h2>📫 Let's Connect!</h2>
-</div>
+
+## 📫 Let's Connect!
+
   <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=26C6DA&center=true&vCenter=true&width=600&lines=Bridging+Data+with+Reality...;Building+automated+architectures...;Let's+turn+your+data+into+action!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=26C6DA&center=true&vCenter=true&width=600&lines=Bridging+Data+with+Reality...;Building+automated+architectures...;Let's+turn+your+data+into+action!" alt="Typing SVG" />
   </p>
   
   <table>
