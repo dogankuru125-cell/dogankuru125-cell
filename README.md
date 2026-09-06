@@ -118,19 +118,17 @@
 
 <br>
 
-<div align="center">
-
 ## 📫 Let's Connect!
-
+<div align="center">
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=26C6DA&center=true&vCenter=true&width=600&lines=Bridging+Data+with+Reality...;Building+automated+architectures...;Let's+turn+your+data+into+action!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=26C6DA&center=true&vCenter=true&width=600&lines=Bridging+Data+with+Reality...;Building+robust+architectures...;Let's+turn+your+ideas+into+code!" alt="Typing SVG" />
   </p>
   
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/📧-Email_Me-D14836?style=for-the-badge" alt="Email"><br>
-        <a href="mailto:dogankuru125@gmail.com">Send an Email</a>
+        <img src="https://img.shields.io/badge/📧-dogankuru125@gmail.com-D14836?style=for-the-badge" alt="Email"><br>
+        <a href="mailto:gorkemtaha1000@gmail.com">Email Me</a>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"><br>
