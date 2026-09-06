@@ -103,24 +103,24 @@
   <table style="border: none;">
     <tr>
       <td>
-        <img src="https://my-github-stats-nine-nu.vercel.app/api?username=dogankuru125-cell&count_private=true&show_icons=true&hide_border=true&bg_color=050505&title_color=00ffea&icon_color=ff0055&text_color=c9d1d9&exclude_repo=my-github-stats&cache_buster=16" height="180" alt="stats graph" />
+        <img src="https://my-github-stats-nine-nu.vercel.app/api?username=dogan-kuru&count_private=true&show_icons=true&hide_border=true&bg_color=050505&title_color=00ffea&icon_color=ff0055&text_color=c9d1d9&exclude_repo=my-github-stats&cache_buster=16" height="180" alt="stats graph" />
       </td>
       <td>
-        <img src="https://my-github-stats-nine-nu.vercel.app/api/top-langs/?username=dogankuru125-cell&count_private=true&layout=compact&hide_border=true&bg_color=050505&title_color=00ffea&text_color=c9d1d9&langs_count=8&exclude_repo=my-github-stats&cache_buster=16" height="180" alt="languages graph" />
+        <img src="https://my-github-stats-nine-nu.vercel.app/api/top-langs/?username=dogan-kuru&count_private=true&layout=compact&hide_border=true&bg_color=050505&title_color=00ffea&text_color=c9d1d9&langs_count=8&exclude_repo=my-github-stats&cache_buster=16" height="180" alt="languages graph" />
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogankuru125-cell&hide_border=true&background=050505&ring=ff0055&fire=00ffea&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffea&sideLabels=00ffea&dates=c9d1d9" width="80%" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogan-kuru&hide_border=true&background=050505&ring=ff0055&fire=00ffea&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffea&sideLabels=00ffea&dates=c9d1d9" width="80%" alt="Streak Stats">
 </div>
 
 <br>
 
 <h2 align="center">📅 Coding Trajectory</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dogankuru125-cell&hide_border=true&area=true&bg_color=050505&color=00ffea&line=ff0055&point=ffffff" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dogan-kuru&hide_border=true&area=true&bg_color=050505&color=00ffea&line=ff0055&point=ffffff" width="100%" alt="Activity Graph"/>
 </div>
 
 <br>
