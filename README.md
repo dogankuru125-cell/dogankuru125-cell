@@ -120,7 +120,7 @@
 
 <h2 align="center">📅 Coding Trajectory</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogan-kuru&hide_border=true&background=050505&ring=ff0055&fire=00ffea&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffea&sideLabels=00ffea&dates=c9d1d9" width="100%" alt="Streak Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=dogan-kuru&theme=github_dark" width="100%" alt="Profile Summary Card"/>
 </div>
 
 <br>
