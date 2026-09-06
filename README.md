@@ -120,7 +120,7 @@
 
 <h2 align="center">📅 Coding Trajectory</h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=dogan-kuru&theme=github_dark" width="100%" alt="Profile Summary Card"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dogan-kuru&hide_border=true&area=true&bg_color=050505&color=00ffea&line=ff0055&point=ffffff" width="100%" alt="Activity Graph"/>
 </div>
 
 <br>
