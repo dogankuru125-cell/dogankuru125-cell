@@ -117,15 +117,6 @@
 </div>
 
 <br>
-
-<h2 align="center">📅 Contribution Metrics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dogan-kuru&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogan-kuru&layout=compact&hide_border=true&theme=tokyonight" width="48%" alt="Top Languages">
-</div>
-
-<br>
-
 ## 📫 Let's Connect!
 <div align="center">
   <p>
